@@ -1,8 +1,6 @@
 {
   "name": "job-hunting-application",
   "version": "1.0.0",
-  "homepage": "https://Raudiyah.github.io/Job-Hunting-Application",
-  "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "node server.js",
@@ -10,8 +8,6 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "cloudinary": "^1.41.3",
@@ -29,6 +25,5 @@
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.1",
     "vite": "^5.2.0"
-  },
-  "description": ""
+  }
 }
